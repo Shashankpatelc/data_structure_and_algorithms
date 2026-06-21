@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-A personal vault dedicated to storing and referencing the code of every algorithm I learn.
+A personal vault dedicated to storing and referencing the code of every algorithm I learn using C++.
 
 ---
 
